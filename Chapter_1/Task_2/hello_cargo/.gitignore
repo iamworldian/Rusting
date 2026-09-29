@@ -1,0 +1,19 @@
+
+# Rust build artifacts
+/target/
+
+# Cargo.lock (uncomment for libraries; keep it committed for binaries/applications)
+# Cargo.lock
+
+# Rust-generated files
+*.rs.bk
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
